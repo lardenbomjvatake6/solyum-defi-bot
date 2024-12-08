@@ -15,7 +15,7 @@
 
 </p>
 
-<p align="center"><b>Join the community <a href="t.me/solyumdefi_bot"><img valign="middle" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack" alt="Telegram"></a></b></p>
+<p align="center"><b>Join the community <a href="https://t.me/solyumdefi_bot"><img valign="middle" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack" alt="Telegram"></a></b></p>
 
 
 > Work on Windows
@@ -230,6 +230,6 @@ to understand the requirements before sending your pull-requests.
 Coding is not a necessity to contribute - maybe start with improving the documentation?
 Issues labeled [good first issue](https://github.com/freqtrade/freqtrade/labels/good%20first%20issue) can be good first contributions, and will help get you familiar with the codebase.
 
-**Note** before starting any major new feature work, *please open an issue describing what you are planning to do* or talk to us on [telegram](t.me/solyumdefi_bot) (please use the #dev channel for this). This will ensure that interested parties can give valuable feedback on the feature, and let others know that you are working on it.
+**Note** before starting any major new feature work, *please open an issue describing what you are planning to do* or talk to us on [telegram](https://t.me/solyumdefi_bot) (please use the #dev channel for this). This will ensure that interested parties can give valuable feedback on the feature, and let others know that you are working on it.
 
 **Important:** Always create your PR against the `develop` branch, not `stable`.
